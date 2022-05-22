@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JoelBuenrostro/Binario-Shop/static/css/main.0838601a.chunk.css",
+    "main.js": "/JoelBuenrostro/Binario-Shop/static/js/main.a4a2aa22.chunk.js",
+    "main.js.map": "/JoelBuenrostro/Binario-Shop/static/js/main.a4a2aa22.chunk.js.map",
+    "runtime-main.js": "/JoelBuenrostro/Binario-Shop/static/js/runtime-main.1193ddac.js",
+    "runtime-main.js.map": "/JoelBuenrostro/Binario-Shop/static/js/runtime-main.1193ddac.js.map",
+    "static/js/2.7d3498ca.chunk.js": "/JoelBuenrostro/Binario-Shop/static/js/2.7d3498ca.chunk.js",
+    "static/js/2.7d3498ca.chunk.js.map": "/JoelBuenrostro/Binario-Shop/static/js/2.7d3498ca.chunk.js.map",
+    "index.html": "/JoelBuenrostro/Binario-Shop/index.html",
+    "precache-manifest.fc3f323cf534b439d8ce2382de991e0c.js": "/JoelBuenrostro/Binario-Shop/precache-manifest.fc3f323cf534b439d8ce2382de991e0c.js",
+    "service-worker.js": "/JoelBuenrostro/Binario-Shop/service-worker.js",
+    "static/css/main.0838601a.chunk.css.map": "/JoelBuenrostro/Binario-Shop/static/css/main.0838601a.chunk.css.map",
+    "static/js/2.7d3498ca.chunk.js.LICENSE.txt": "/JoelBuenrostro/Binario-Shop/static/js/2.7d3498ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1193ddac.js",
+    "static/js/2.7d3498ca.chunk.js",
+    "static/css/main.0838601a.chunk.css",
+    "static/js/main.a4a2aa22.chunk.js"
+  ]
+}
